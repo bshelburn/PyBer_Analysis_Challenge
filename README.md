@@ -6,22 +6,16 @@ Initial report created analyzing new ridesharing app "PyBer" with data from Jan-
 
 ## PyBer Analysis Results
 
-### Original
-![District Summary Module](https://user-images.githubusercontent.com/84201082/126900977-dc25b7e8-3b26-41cc-a93e-dcdf67853920.png)
+### Anaysis and Differences
 
-### Challenge 
+![Summary Analysis](https://user-images.githubusercontent.com/84201082/127783321-8e37684a-ab1b-47f6-adf6-ac7ef8f44086.png)
+
+![Summary Format](https://user-images.githubusercontent.com/84201082/127783326-02404839-a24e-423d-a25e-0316a92b600e.png)
+
+![Pivot1](https://user-images.githubusercontent.com/84201082/127783330-bdfcd719-a1d7-4d7e-bfc5-e63fef768f53.png)
+
+![Chart1](https://user-images.githubusercontent.com/84201082/127783346-f9f24406-a84d-4982-ade4-3e455b3e2d3c.png)
 
 
-## District Analysis Summary
-There was minimal amount of impact by removing the few hundred students that were in 9th grade.   Despite the claims of potential acedemic dishonesty I did not discover anythng specific to corroberate the claim.   The THS charter school was among one of the smallest within the all over sample size.   However the charter schools did seem to rank higher in terms if all over performance in terms of the summary snapshots of grades.   That being said they have much smaller class sizes and dedicate more money per head to each individual.
-
-
-Overview of the analysis:
-
-The purpose of the new analysis is well defined. (3 pt)
-Results:
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-Summary:
-
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+## PyBer Analysis Summary
+Based on the analytsis the most revenue is clearly generted from the urban PyBer rides.   However, although more revenue is generated that does not mean that the positive cash flow follows.   Many other factors are not taken into account such as insurance, gas prices, etc of the drivers and the company.   In order to paint a more accurate picture a much wider data set is needed to determine where better to focus the efforts of PyBer.
