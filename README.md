@@ -18,6 +18,7 @@ Initial report created analyzing new ridesharing app "PyBer" with data from Jan-
 
 
 ## PyBer Analysis Summary
-Based on the analysis the most revenue is clearly generated from the urban PyBer rides.   However, although more revenue is generated that does not mean that the positive cash flow follows.   All data sets see an uptick in March.   However urban and suburban swap in trend in increase/decrease when the month of April starts. Many other factors are not taken into account such as insurance, gas prices, etc of the drivers and the company.   
+Based on the analysis the most revenue is clearly generated from the urban PyBer rides which should be a focus of the company.   However, although more revenue is generated that does not mean that the positive cash flow follows.   All data sets see an uptick in March probably due to the start of spring and people geting out a bit more.   However urban and suburban swap in trend in increase/decrease when the month of April starts. A focus on suburban PyBer rides would be advisable during the springtime.   
 
+Many other factors are not taken into account such as insurance, gas prices, etc of the drivers and the company.
 In order to paint a more accurate picture for the CEO a much wider data set is needed to determine where better to focus the efforts of PyBer.
